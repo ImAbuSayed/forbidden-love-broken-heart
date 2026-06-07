@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Forbidden Love Broken Heart
+
+This log tracks the cryptographic history and versioning for the song **Forbidden Love Broken Heart** (forbidden-love-broken-heart).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T14:00:07.151750 | `v1` | `7829845228ae5d1322928ae216b0ff7651f98058cbff6bc73a6b1606be299aa8` | `eaf0f690240a5fa672e5684f5574b25d9c9267929084ee6d7ce92d8637aa1a1c` | `2026-06-07_forbidden-love-broken-heart-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
